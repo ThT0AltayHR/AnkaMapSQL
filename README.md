@@ -4,7 +4,7 @@
   <img src="https://files.catbox.moe/0t7lmz.jpeg" width="400" alt="Anka Red Team Logo">
 </p>
 
-🇹🇷türkhackteam.org🇹🇷
+🇹🇷[URL]turkhackteam.org[URL]🇹🇷
 
 <p align="center">
   <img src="https://img.shields.io/badge/VULN-SQL_INJECTION-red?style=for-the-badge" />
