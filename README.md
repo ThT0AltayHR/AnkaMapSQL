@@ -1,11 +1,11 @@
-# 🦅 ANKA RED TEAM - SQL INJECTION FRAMEWORK 🦅
+ó# 🦅 ANKA RED TEAM - SQL INJECTION FRAMEWORK 🦅
 
 <p align="center">
   <img src="https://files.catbox.moe/0t7lmz.jpeg" width="400" alt="Anka Red Team Logo">
 </p>
-
-🇹🇷[URL]turkhackteam.org[URL]🇹🇷
-
+🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷
+🇹🇷turkhackteam.org🇹🇷
+🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷
 <p align="center">
   <img src="https://img.shields.io/badge/VULN-SQL_INJECTION-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TARGET-WORLDWIDE-black?style=for-the-badge" />
